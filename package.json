@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ajv": "^6.12.4",
+    "ava": "^3.12.1",
+    "fast-glob": "^3.2.4"
+  },
+  "scripts": {
+    "test": "ava test.js"
+  }
+}
