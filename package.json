@@ -1,4 +1,12 @@
 {
+  "name": "microformats2-json-schema",
+  "version": "0.1.0",
+  "author": {
+    "name": "Martijn van der Ven",
+    "email": "martijn@vanderven.se",
+    "url": "https://vanderven.se/martijn/"
+  },
+  "license": "CC0-1.0",
   "dependencies": {
     "ajv": "^6.12.4",
     "ava": "^3.12.1",
