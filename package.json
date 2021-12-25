@@ -1,6 +1,6 @@
 {
   "name": "microformats2-json-schema",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Martijn van der Ven",
     "email": "martijn@vanderven.se",
@@ -8,9 +8,10 @@
   },
   "license": "CC0-1.0",
   "dependencies": {
-    "ajv": "^6.12.4",
-    "ava": "^3.12.1",
-    "fast-glob": "^3.2.4"
+    "ajv": "^8.8.2",
+    "ajv-formats": "^2.1.1",
+    "ava": "^3.15.0",
+    "fast-glob": "^3.2.7"
   },
   "scripts": {
     "test": "ava test.js"
